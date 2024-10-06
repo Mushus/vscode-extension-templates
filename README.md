@@ -1,4 +1,4 @@
-**# templates
+# templates
 
 This extension "templates" is a tool for efficiently scaffolding by easily managing and utilizing templates in VS Code.
 
